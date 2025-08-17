@@ -10,7 +10,7 @@ A full-stack web application built with **React** and **Node.js** that allows us
 - 🗑️ Delete places with instant feedback
 - 📍 Sort places by proximity to user's location
 - 🌐 Responsive layout for desktop and mobile
-- ⚙️ RESTful API powered by Express.js
+- ⚙️ RESTful API
 
 ---
 
